@@ -8,8 +8,8 @@
 **Tier:** 1 — Small Team
 **Structure:** Small Team
 **Top Role:** Solo Orchestrator
-**Config Hash:** `a58acbf365adb1faad2d3ad9da9d161a57cac666a6eafdf31034983891345143`
-**Autonomy:** Human-in-the-Loop
+**Config Hash:** `6026c726d80fdc3111cd30534598a4bf2acc4116806417a81203f2f685de4a73`
+**Autonomy:** Fully Agentic
 **Governance Intensity:** Light
 
 > **Light Governance.** Only ring gate decision points are enforced (DP-5, DP-8, DP-13, DP-22, DP-24).
@@ -161,3 +161,14 @@ Team Lead (You — main thread)
 - **Tier 1 → 2:** Activates PM, Project Leads, formal governance, planning artifacts
 - **Tier 2 → 3:** Activates Program Executive, Ops Chief, Embedded Enablers, full compliance suite
 - **Downgrade:** Higher-tier files remain in place but are marked inactive in this config
+
+## Deployment Configuration
+
+**Deployment Mode:** Full local (VSIX)
+**Governance Source:** bundled-vsix
+
+## Responsible AI Attestation
+
+**Attested:** 2026-10-10T22:31:47.553Z (Tier 1)
+**Statement:** If this project requires Responsible AI (RAI) approval, I have obtained it or will obtain it before the project is exposed to customer data. In all cases, I will abide by the RAI usage policies defined at https://aka.ms/askraiisd.
+**Policy:** https://aka.ms/askraiisd
