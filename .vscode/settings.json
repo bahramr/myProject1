@@ -1,0 +1,36 @@
+{
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.rulers": [
+    100,
+    120
+  ],
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "markdown.editor.commandUris": false,
+  "github.copilot.chat.agentDebugLog.enabled": true,
+  "github.copilot.chat.agentDebugLog.fileLogging.enabled": true,
+  "files.exclude": {
+    "**/.git": true,
+    ".github/agents/**": true,
+    ".github/skills/**": true,
+    ".github/prompts/**": true,
+    ".github/copilot-instructions.md": true,
+    ".github/workspace-config.md": true,
+    "policy/**": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bin": true,
+    "**/obj": true,
+    ".github/agents/**": true,
+    ".github/skills/**": true,
+    ".github/prompts/**": true,
+    ".github/copilot-instructions.md": true,
+    ".github/workspace-config.md": true,
+    "policy/**": true
+  },
+  "security.allowedUNCHosts": []
+}

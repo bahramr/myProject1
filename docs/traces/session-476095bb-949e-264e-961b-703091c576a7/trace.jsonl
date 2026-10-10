@@ -1,0 +1,1 @@
+{"traceId":"trace-476095bb-2026-10-10","spanId":"span-mv2z2tzi-0001","sessionId":"476095bb-949e-264e-961b-703091c576a7","timestamp":"2026-10-10T22:35:13.614Z","eventType":"METRIC","name":"Tool.JournalWrite","status":"ok","source":"auto-capture","data":{"entryType":"WORK","durationMs":3914,"retryCount":0,"lockWaitMs":0}}
