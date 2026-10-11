@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "expiresAt": "2026-10-11T03:52:04.316Z",
+  "maxEstimatedUsdPerTask": 0.5,
+  "maxEstimatedUsdPerSession": 2,
+  "maxInputTokens": 16000,
+  "maxOutputTokens": 2000,
+  "maxTurns": 3,
+  "maxToolCalls": 4,
+  "models": [],
+  "agents": []
+}

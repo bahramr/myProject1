@@ -1,0 +1,8 @@
+Extract the ZIP, then run:
+
+./install.ps1 -TargetPath 'C:\path\to\workspace'
+
+Or on Bash:
+
+
+Use -Force or --force to update an existing installation. See the full installation guide.
